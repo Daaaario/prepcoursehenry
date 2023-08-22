@@ -1,2 +1,1 @@
-# prepcoursehenry
-este es un repositorio de pruba del modulo 2 del prepcourse
+este proyecto es una prueba de como crear um repositorio y clonarlo desde github a mi escritorio local
